@@ -13,7 +13,7 @@ Hacktiv8 Batch 005 Graduates :bookmark_tabs:
 - I'm from Bekasi, West Java, Indonesia.
 - I like to play video games made by Indie Developers. 
 - I love to code and make something useful for real world problems.
-- Interested in Game Development & Embedded Programming.
+- Interested in Game Development & Web Programming.
 
 ## My Projects
 - Delivery Jobbers (Third Party Platform Web Application for deliver shipment, basically simple Uber mockup for delivery services) [https://github.com/DelivereeBid/DelivereeBidRepo]
